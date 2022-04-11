@@ -6,4 +6,4 @@
 jbho-rbd/jbho-rbd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-bloop [!equation](https://latex.codecogs.com/svg.image?%5COmega_i)
+bloop [!equation](https://latex.codecogs.com/gif.image?%5Cdpi%7B110%7D%5COmega_i)
